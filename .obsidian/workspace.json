@@ -166,13 +166,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "cb8b4a1b8b5f080b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,12 +198,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3fa41824d7c853ce",
+  "active": "4cc5c10d6039350f",
   "lastOpenFiles": [
+    "kasten",
     "journal/daily/2026-10-21.md",
     "templates/daily-template.md",
     "templates/weekly-template.md",
-    "Untitled",
     "templates",
     "journal/weekly",
     "journal/daily",
