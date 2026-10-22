@@ -9,8 +9,15 @@ tags:
 # <% tp.date.now("dddd, DD MMMM YYYY") %>
 
 ---
+### Pending Tasks
+```dataview
+TASK
+FROM ""
+WHERE file.path = this.file.path
+AND !completed
+```
 
-- [ ] Task 1
+### Todo's
 
 ---
 

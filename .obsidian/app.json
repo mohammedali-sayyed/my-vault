@@ -2,5 +2,6 @@
   "vimMode": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "kasten",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "showLineNumber": false
 }
